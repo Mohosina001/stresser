@@ -1,0 +1,24 @@
+/* bauhaus_bold_bt */
+@font-face {
+    font-family: 'Bauhaus';
+    src: url('../fonts/bauhaus_bold_bt/bauhaus_bold_bt.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/bauhaus_bold_bt/bauhaus_bold_bt.eot?#iefix') format('embedded-opentype'), /* IE < 9 */ url('../fonts/bauhaus_bold_bt/bauhaus_bold_bt.woff2') format('woff2'), /* Super Modern Browsers */ url('../fonts/bauhaus_bold_bt/bauhaus_bold_bt.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */ url('../fonts/bauhaus_bold_bt/bauhaus_bold_bt.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/bauhaus_bold_bt/bauhaus_bold_bt.svg#bauhaus_bold_bt') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+/* Righteous */
+@font-face {
+    font-family: 'Righteous';
+    src: url('../fonts/righteous/righteous.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/righteous/righteous.eot?#iefix') format('embedded-opentype'), /* IE < 9 */ url('../fonts/righteous/righteous.woff2') format('woff2'), /* Super Modern Browsers */ url('../fonts/righteous/righteous.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */ url('../fonts/righteous/righteous.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/righteous/righteous.svg#righteous') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+/* gartisans */
+@font-face {
+    font-family: 'Gartisans';
+    src: url('../fonts/gartisans/gartisans.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/gartisans/gartisans.eot?#iefix') format('embedded-opentype'), /* IE < 9 */ url('../fonts/gartisans/gartisans.woff2') format('woff2'), /* Super Modern Browsers */ url('../fonts/gartisans/gartisans.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */ url('../fonts/gartisans/gartisans.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/gartisans/gartisans.svg#gartisans') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+/* hellbound */
+@font-face {
+    font-family: 'hellbound';
+    src: url('../fonts/hellbound/hellbound.eot'); /* IE 9 Compatibility Mode */
+    src: url('../fonts/hellbound/hellbound.eot?#iefix') format('embedded-opentype'), /* IE < 9 */ url('../fonts/hellbound/hellbound.woff2') format('woff2'), /* Super Modern Browsers */ url('../fonts/hellbound/hellbound.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */ url('../fonts/hellbound/hellbound.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/hellbound/hellbound.svg#hellbound') format('svg'); /* Chrome < 4, Legacy iOS */
+}
